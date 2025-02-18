@@ -1,0 +1,4 @@
+"진료 기록 ID","수축기 혈압","호흡률","호소 증상","심장 박동수","산소 포화도","label"
+"279421","139","28","HYPOXIA","111","80","HeartFailure"
+"169355","107","16","ABNORMAL LAB VALUES","120","86","HeartFailure"
+"57725","95","24","Altered mental status, Unresponsive","91","90","Sepsis"
